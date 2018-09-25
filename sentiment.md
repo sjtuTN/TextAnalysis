@@ -25,8 +25,6 @@
 1. **More than words: Quantifying language to measure firms' fundamentals** P.C. tETLOCK, m.Saar-Tsechansky et al. The Journal of FINANCE 2008
 
 # Conference
-1. **A joint model for analyzing topic and sentiment dynamics from large-scale online news** Peng Liu, Jon Atle Gulla et al WWW 2018
-
 1. **Sentimental Content Analysis and Knowledge Extraction from News Articles** mOHAMMAD Kamel, Neda Keyvani, Hadi Sadoghi Yazdi CoRR 2018
 
 1. **Evaluating Sentiment Analysis in the Context of Securities Trading**Siavash Kazemian et al ACL 2016
