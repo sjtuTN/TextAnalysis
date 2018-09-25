@@ -2,6 +2,7 @@
 Text analysis papers related to stock market prediction
 # survey papers 
 1. **Web Media and Stock Markets : A Survey and Future Directions from a Big Data Perspective** IEEE TRANSACTIONS ON KNOWLEDGE AND DATA  ENGINEERING FEBRUARY 2018 
+1. **Computational Intelligence and Financial Markets: A Survey and Future Directions** Rodolfo C. Cavalcante et al. Expert Systems With Applications 2016
 
 # Journal
 1.**Automated news reading: Stock price prediction based on financial news using context-capturing features** Decision Support Systems June 2013
